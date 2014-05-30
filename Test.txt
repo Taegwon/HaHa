@@ -1,3 +1,5 @@
 Test4 mv changed name test
 
 Unstage stage change the phase
+
+test for checkout command
