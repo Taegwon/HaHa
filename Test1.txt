@@ -1,5 +1,0 @@
-Test1...
-
-Test2....  statge unstage check
-
-Test3...   git commit -a option practice
